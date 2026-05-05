@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Hero Section with Professional Branding -->
-<img src="https://avatars.githubusercontent.com/u/27323032?v=4" alt="Juan Gómez" width="180" style="border-radius: 50%; border: 4px solid #0366d6;" />
+<!-- <img src="https://avatars.githubusercontent.com/u/27323032?v=4" alt="Juan Gómez" width="180" style="border-radius: 50%; border: 4px solid #0366d6;" /> -->
 
-# 👋 Hi, I'm Juan "JC" Gómez
+# 👋 Hi, I'm Juan Gómez
 
 ### Senior Software Engineer | Full-Stack Architect | Legacy Modernization Expert
 
@@ -250,10 +250,20 @@ graph LR
 ## 📊 GitHub Activity
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juxn89&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juxn89&theme=vue-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juxn89&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Juxn89&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+
+<br/>
+
+<!-- GitHub Contribution Streak -->
+<img src="https://streak-stats.demolab.com/?user=Juxn89&theme=vue-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+<br/>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juxn89&theme=vue&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -283,7 +293,7 @@ I'm open to discussing **Senior/Staff Engineer roles**, **technical leadership o
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=juxn89&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Juxn89&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile views" />
   
   <br/><br/>
   
