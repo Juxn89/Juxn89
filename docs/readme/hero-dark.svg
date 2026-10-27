@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+<title id="title">Juan Gómez</title>
+<desc id="desc">Senior Software Engineer, .NET and AI, remote. 15+ years of .NET; now building AI that is measured: Claude behind a port, evals with real numbers, every call metered. Open to senior roles and freelance .NET and AI projects.</desc>
+<style>
+	.flow { stroke-dasharray: 6 7; animation: flow 1.6s linear infinite; }
+	.pop { opacity: 0; animation: pop .5s ease-out forwards; }
+	.glow { animation: glow 2.4s ease-in-out infinite alternate; }
+	@keyframes flow { to { stroke-dashoffset: -26; } }
+	@keyframes pop { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+	@keyframes glow { from { opacity: .55; } to { opacity: 1; } }
+	@media (prefers-reduced-motion: reduce) { .flow, .glow { animation: none; } .pop { animation: none; opacity: 1; } }
+</style>
+<defs>
+	<linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10b981"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+	<linearGradient id="metric" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10b981"/><stop offset=".6" stop-color="#7c3aed"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+	<radialGradient id="orbMain"><stop offset="0" stop-color="#10b981" stop-opacity="0.3"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/></radialGradient>
+	<radialGradient id="orbViolet"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.24"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+	<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+	<clipPath id="frame"><rect width="1280" height="460" rx="28"/></clipPath>
+	<filter id="soft" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity="0.45"/></filter>
+</defs>
+<g clip-path="url(#frame)">
+	<rect width="1280" height="460" fill="#0a0f0d"/>
+	<rect width="1280" height="460" fill="url(#dots)"/>
+	<circle cx="180" cy="40" r="340" fill="url(#orbMain)"/>
+	<circle cx="1080" cy="470" r="360" fill="url(#orbViolet)"/>
+</g>
+<rect x=".5" y=".5" width="1279" height="459" rx="28" fill="none" stroke="#26332e"/>
+
+<g transform="translate(72 70)">
+	<rect width="404" height="30" rx="15" fill="#111816" stroke="#26332e"/>
+	<circle cx="18" cy="15" r="4.5" fill="#10b981" class="glow"/>
+	<text x="31" y="20" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing=".1em" fill="#94a3b8">SENIOR SOFTWARE ENGINEER · .NET + AI · REMOTE</text>
+</g>
+<text x="66" y="176" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-.03em" fill="#f1f5f9">Juan <tspan fill="url(#brand)">Gómez</tspan></text>
+<text x="72" y="232" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="600" fill="#f1f5f9">15+ years of .NET. Now building AI that is measured.</text>
+<text x="72" y="270" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#94a3b8">Claude behind a port, evals with real numbers, every call metered.</text>
+<text x="72" y="302" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#94a3b8">Open to senior roles and freelance .NET + AI projects.</text>
+<g transform="translate(72 352)"><rect width="88.80000000000001" height="32" rx="16" fill="#111816" stroke="#26332e"/><text x="44.400000000000006" y="21" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#f1f5f9">.NET 10</text></g><g transform="translate(168.8 352)"><rect width="80.4" height="32" rx="16" fill="#111816" stroke="#26332e"/><text x="40.2" y="21" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#f1f5f9">Claude</text></g><g transform="translate(257.20000000000005 352)"><rect width="55.2" height="32" rx="16" fill="#111816" stroke="#26332e"/><text x="27.6" y="21" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#f1f5f9">MCP</text></g><g transform="translate(320.40000000000003 352)"><rect width="147.60000000000002" height="32" rx="16" fill="#111816" stroke="#26332e"/><text x="73.80000000000001" y="21" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#f1f5f9">RAG · pgvector</text></g><g transform="translate(476.00000000000006 352)"><rect width="88.80000000000001" height="32" rx="16" fill="#111816" stroke="#26332e"/><text x="44.400000000000006" y="21" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#f1f5f9">Next.js</text></g>
+
+<g transform="translate(676 58)" filter="url(#soft)"><g class="pop" style="animation-delay:0.2s">
+	<rect width="264" height="88" rx="16" fill="#151d1a" stroke="#26332e"/>
+	<circle cx="22" cy="26" r="5" fill="#be123c"/>
+	<text x="34" y="30" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#f1f5f9">data-chat</text>
+	<text x="18" y="64" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-.02em" fill="url(#metric)">75 / 75</text>
+	<text x="123" y="62" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">eval questions right</text>
+</g></g>
+<path d="M940 102 C 966 102, 966 230, 992 230" fill="none" stroke="#10b981" stroke-width="2.2" class="flow"/>
+<g transform="translate(676 170)" filter="url(#soft)"><g class="pop" style="animation-delay:0.4s">
+	<rect width="264" height="88" rx="16" fill="#151d1a" stroke="#26332e"/>
+	<circle cx="22" cy="26" r="5" fill="#0f766e"/>
+	<text x="34" y="30" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#f1f5f9">docs-assistant</text>
+	<text x="18" y="64" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-.02em" fill="url(#metric)">98 %</text>
+	<text x="84" y="62" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">hit@5, bilingual eval</text>
+</g></g>
+<path d="M940 214 C 966 214, 966 230, 992 230" fill="none" stroke="#f59e0b" stroke-width="2.2" class="flow"/>
+<g transform="translate(676 282)" filter="url(#soft)"><g class="pop" style="animation-delay:0.6000000000000001s">
+	<rect width="264" height="88" rx="16" fill="#151d1a" stroke="#26332e"/>
+	<circle cx="22" cy="26" r="5" fill="#1d4ed8"/>
+	<text x="34" y="30" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#f1f5f9">invoice-extractor</text>
+	<text x="18" y="64" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-.02em" fill="url(#metric)">0 / 42</text>
+	<text x="110" y="62" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">false auto-approvals</text>
+</g></g>
+<path d="M940 326 C 966 326, 966 230, 992 230" fill="none" stroke="#10b981" stroke-width="2.2" class="flow"/>
+
+<!-- What every project shares -->
+<g transform="translate(992 130)" filter="url(#soft)">
+	<rect width="220" height="200" rx="18" fill="#151d1a" stroke="#26332e"/>
+	<text x="18" y="34" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing=".08em" fill="#10b981">MEASURED, NOT CLAIMED</text>
+	<path d="M18 70l4 4 8-8" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="38" y="75" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">evals and results in the repo</text><path d="M18 96l4 4 8-8" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="38" y="101" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">cost metered on every call</text><path d="M18 122l4 4 8-8" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="38" y="127" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">failures published too</text>
+	<g transform="translate(18 152)"><g class="pop" style="animation-delay:.9s">
+		<rect width="148" height="24" rx="12" fill="#16a34a" fill-opacity=".14" stroke="#16a34a"/>
+		<text x="74" y="16.5" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="700" fill="#16a34a">built in public ✓</text>
+	</g></g>
+	<circle cx="200" cy="29" r="4.5" fill="#f59e0b" class="glow"/>
+</g>
+</svg>

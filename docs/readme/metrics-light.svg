@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-label="15+ years building software, since 2010. 6 brands on the platforms I build today, Europe, Central America, Caribbean. 7 open-source .NET + AI projects, results measured in each repo. &gt;99.9% availability in production, multinational platforms.">
+<defs>
+	<linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10b981"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+	<linearGradient id="metric" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10b981"/><stop offset=".6" stop-color="#7c3aed"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+	<radialGradient id="orbMain"><stop offset="0" stop-color="#10b981" stop-opacity="0.14"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/></radialGradient>
+	<radialGradient id="orbViolet"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.11200000000000002"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+	<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#047857" fill-opacity="0.07"/></pattern></defs>
+<rect x=".5" y=".5" width="1279" height="149" rx="22" fill="#ffffff" stroke="#dbe7e1"/>
+
+	<g transform="translate(160 0)">
+		<text y="64" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-.02em" fill="url(#metric)">15+ years</text>
+		<text y="94" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">building software</text>
+		<text y="116" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#475569">since 2010</text>
+	</g>
+	<g transform="translate(480 0)">
+		<text y="64" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-.02em" fill="url(#metric)">6 brands</text>
+		<text y="94" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">on the platforms I build today</text>
+		<text y="116" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#475569">Europe, Central America, Caribbean</text>
+	</g><line x1="320" y1="36" x2="320" y2="114" stroke="#dbe7e1"/>
+	<g transform="translate(800 0)">
+		<text y="64" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-.02em" fill="url(#metric)">7</text>
+		<text y="94" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">open-source .NET + AI projects</text>
+		<text y="116" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#475569">results measured in each repo</text>
+	</g><line x1="640" y1="36" x2="640" y2="114" stroke="#dbe7e1"/>
+	<g transform="translate(1120 0)">
+		<text y="64" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-.02em" fill="url(#metric)">&gt;99.9%</text>
+		<text y="94" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">availability in production</text>
+		<text y="116" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#475569">multinational platforms</text>
+	</g><line x1="960" y1="36" x2="960" y2="114" stroke="#dbe7e1"/>
+</svg>

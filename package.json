@@ -1,0 +1,11 @@
+{
+	"name": "juxn89-profile",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"readme:assets": "node scripts/readme-assets.mjs"
+	},
+	"devDependencies": {
+		"@playwright/test": "1.64.0"
+	}
+}
